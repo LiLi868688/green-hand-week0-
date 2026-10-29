@@ -1,0 +1,27 @@
+{
+  "cs50": {
+    "title": "Harvard CS50P · Problem Sets",
+    "url": "https://cs50.harvard.edu/python/psets/",
+    "focus": "函数、条件、循环、测试与文件处理的递进安排"
+  },
+  "mit": {
+    "title": "MIT 6.0001 · Assignments",
+    "url": "https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/assignments/",
+    "focus": "把问题拆成函数、模拟、搜索与综合编程任务"
+  },
+  "think": {
+    "title": "Think Python · Allen B. Downey",
+    "url": "https://greenteapress.com/wp/think-python-3rd-edition/",
+    "focus": "小步推理、字符串、容器与调试练习"
+  },
+  "d2l": {
+    "title": "动手学深度学习 · 官方在线教材",
+    "url": "https://d2l.ai/",
+    "focus": "数学、数值稳定性、模型组件与动手实现"
+  },
+  "isl": {
+    "title": "An Introduction to Statistical Learning · Python Resources",
+    "url": "https://www.statlearning.com/resources-python",
+    "focus": "回归、分类、重采样、模型评估与实验设计"
+  }
+}
